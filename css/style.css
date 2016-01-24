@@ -511,6 +511,7 @@ ul.ul-card li .description p.where {
 
 /* ul-dates
  **************************************************/
+
 ul.ul-dates,ul.ul-dates-gray {
 	margin: 0;
 	padding: 0;
@@ -518,7 +519,7 @@ ul.ul-dates,ul.ul-dates-gray {
 }
 
 ul.ul-dates li,ul.ul-dates-gray li {
-	margin-bottom: 15px; /*margin-left:  20px;
+	margin-bottom: 75px; /*margin-left:  20px;
 	*/
 }
 
